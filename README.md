@@ -19,8 +19,12 @@
 <br/><br/>
 
 <!--━━━━━━━━━━━━━━━━━━━━━━━━━━ PORTFOLIO CTA ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-->
-<a href="https://github.com/Ahmedyasser1905/potfolio">
+<a href="https://potfolio-six-neon.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/⚡_EXPLORE_MY_3D_PORTFOLIO-06b6d4?style=for-the-badge&labelColor=080b14&logoColor=white" height="40"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Ahmedyasser1905/potfolio" target="_blank">
+  <img src="https://img.shields.io/badge/GITHUB_REPO-7c3aed?style=for-the-badge&labelColor=080b14&logo=github&logoColor=white" height="40"/>
 </a>
 &nbsp;&nbsp;
 <a href="mailto:seosolutions172@gmail.com">
@@ -76,8 +80,8 @@ const developer = {
   tools       : ["Docker", "Git", "EAS Build", "Socket.io", "Zustand"],
 
   projectCount: 30,
-  portfolio   : "https://github.com/Ahmedyasser1905/potfolio",
-  deployed    : ["rawdha.vercel.app", "pfe-backend-tau.vercel.app", "faida-platform.vercel.app"],
+  portfolio   : "https://potfolio-six-neon.vercel.app/",
+  deployed    : ["potfolio-six-neon.vercel.app", "rawdha.vercel.app", "pfe-backend-tau.vercel.app", "faida-platform.vercel.app"],
   philosophy  : "Shipped > Perfect. Real > Impressive. Arabic-first when it matters.",
 
   currentFocus: [
@@ -377,7 +381,7 @@ Three-part ecosystem: **NestJS API** (live on Vercel, 4 open issues) · **React 
 | **🏗️ Apex PFE** | Construction project management SPA | React 19 · Vite · TailwindCSS · Radix UI | — |
 | **🍕 Smart Pizza & Café** | Food ordering — real-time orders | RN · Express · MongoDB · Socket.io | — |
 | **👶 Baby Store** | E-commerce baby products + admin | HTML · PHP · MySQL · JS | — |
-| **🎨 3D Digital Lab Portfolio** | High-end 3D WebGL developer portfolio & hybrid scroll showcase | HTML5 · CSS3 · Three.js · GSAP ScrollTrigger | [▶](https://github.com/Ahmedyasser1905/potfolio) |
+| **🎨 3D Digital Lab Portfolio** | High-end 3D WebGL developer portfolio & hybrid scroll showcase | HTML5 · CSS3 · Three.js · GSAP ScrollTrigger | [▶](https://potfolio-six-neon.vercel.app/) |
 
 </details>
 
@@ -531,7 +535,7 @@ Three-part ecosystem: **NestJS API** (live on Vercel, 4 open issues) · **React 
 
 <br/>
 
-<a href="https://github.com/Ahmedyasser1905/potfolio">
+<a href="https://potfolio-six-neon.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/⚡_ENTER_MY_DIGITAL_SPACE_→-06b6d4?style=for-the-badge&labelColor=080b14&logoColor=white" height="50"/>
 </a>
 
