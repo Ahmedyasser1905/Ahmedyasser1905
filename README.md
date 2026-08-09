@@ -272,6 +272,26 @@ Full graduation project ecosystem — a TypeScript/NestJS API (live on Vercel), 
 **→** [**pfe-backend-tau.vercel.app**](https://pfe-backend-tau.vercel.app)
 
 </td>
+<tr>
+<td width="100%" valign="top" colspan="2">
+
+### 🌾 Faida Platform — منصة الفائدة
+> Arabic RTL agricultural sustainability enterprise web platform · [faida-platform.vercel.app](https://faida-platform.vercel.app)
+
+[![React](https://img.shields.io/badge/React%2018-61DAFB?style=flat-square&logo=react&logoColor=0d0f14)](https://faida-platform.vercel.app)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://faida-platform.vercel.app)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://faida-platform.vercel.app)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)](https://faida-platform.vercel.app)
+[![Zustand](https://img.shields.io/badge/Zustand-764ABC?style=flat-square)](https://faida-platform.vercel.app)
+[![Leaflet](https://img.shields.io/badge/Leaflet%20Maps-199900?style=flat-square&logo=leaflet&logoColor=white)](https://faida-platform.vercel.app)
+[![Recharts](https://img.shields.io/badge/Recharts-FF6B6B?style=flat-square)](https://faida-platform.vercel.app)
+[![Vercel](https://img.shields.io/badge/Vercel-Deployed-000?style=flat-square&logo=vercel&logoColor=white)](https://faida-platform.vercel.app)
+
+Enterprise-grade **Arabic RTL** agricultural management platform with **5 user roles** — Admin, Provider, Farmer, Driver, and Citizen. Features interactive Leaflet maps for field tracking, Recharts analytics dashboards, PDF/Excel export (jsPDF + xlsx), Framer Motion animations, TanStack Query data management, Zod validation, and a full mock-data architecture simulating a real backend.
+
+**→** [**faida-platform.vercel.app**](https://faida-platform.vercel.app)
+
+</td>
 </tr>
 </table>
 
@@ -357,11 +377,12 @@ Full graduation project ecosystem — a TypeScript/NestJS API (live on Vercel), 
 </details>
 
 <details>
-<summary><b>🌐 Web Apps — 7 projects</b></summary>
+<summary><b>🌐 Web Apps — 8 projects</b></summary>
 <br/>
 
 | Project | Description | Stack | Demo |
 |---|---|---|---|
+| **🌾 Faida Platform** | Arabic RTL agri management — 5 roles, maps, analytics | React 18 · TS · Vite · Tailwind · Zustand · Leaflet | [▶](https://faida-platform.vercel.app) |
 | **🏫 NurseryManagment** | Full nursery management system | React · Vite · NestJS · MySQL · Socket.io | — |
 | **🌙 Creche Flow** | Modern nursery Next.js dashboard | Next.js 16 · TailwindCSS · Recharts | — |
 | **🗂️ Rawdhat Al-Ahlam** | Arabic PHP nursery system + 3D hero | PHP · MySQL · Three.js | — |
