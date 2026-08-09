@@ -14,9 +14,7 @@
 <br/>
 
 <!--═══════════════════════ TYPING ANIMATION ══════════════════════════-->
-<a href="https://github.com/Ahmedyasser1905">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=38&lines=📱+React+Native+%26+Expo+—+12%2B+mobile+apps+shipped;🚀+NestJS+·+Next.js+·+Node.js+·+Express+backends;🤖+Integrating+Gemini%2C+Claude+%26+OpenAI+into+products;🎮+Mobile+game+developer+—+SPY+·+Chess+·+Loup-Garou;🌍+Building+from+Algeria+for+the+world" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&repeat=true&width=700&height=36&lines=React+Native+%26+Expo+Mobile+Engineer;NestJS+%7C+Next.js+%7C+Node.js+Backend+Developer;AI+Integration+%28Gemini+%7C+Claude+%7C+OpenAI%29;Mobile+Game+Developer+%7C+30%2B+Projects+Shipped;Building+from+Algeria+for+the+world" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -56,40 +54,28 @@
 
 ## 🧑‍💻 About Me
 
-<table>
-<tr>
-<td width="58%" valign="top">
+I'm a software developer from Algeria who ships complete products — mobile apps, web platforms, AI tools, and games. My work spans the entire stack: from the React Native screen the user touches, to the NestJS API handling the request, to the Supabase database storing the result.
 
-I'm a software developer from Algeria who ships complete products — mobile apps, web platforms, AI tools, and games. My work spans the entire stack: from the React Native screen the user touches to the NestJS API handling the request to the Supabase database storing the result.
+I've built **30+ real projects** across every category: production mobile apps published via EAS, full-stack web platforms with role-based dashboards, AI assistants integrating Gemini and OpenAI, party games with Three.js 3D scenes, and management systems with live Vercel deployments.
 
-Over the past years, I've built **30+ real projects** across every category: production mobile apps published via EAS, full-stack web platforms with role-based dashboards, AI assistants integrating Gemini and OpenAI, party games with Three.js 3D scenes, and nursery management systems with live Vercel deployments.
-
-**What defines my work:**
-- I favour complete, deployed solutions over unfinished experiments
-- I build for Arabic and multilingual audiences when the project calls for it
-- I treat mobile as a first-class platform, not an afterthought
-- I integrate AI APIs into products that solve practical problems
-- I write TypeScript by default and reach for the right tool for each job
+```text
+  What defines my work
+  ─────────────────────────────────────────────────────
+  → I ship complete, deployed solutions — not experiments
+  → I build for Arabic & multilingual users when needed
+  → Mobile is a first-class platform in every project
+  → AI APIs are infrastructure, not demos
+  → TypeScript by default, right tool for each job
+```
 
 **Currently focused on:**
 - AI-powered product development (LLM APIs, agentic systems)
 - Advanced mobile architecture with React Native + Expo
 - Full-stack TypeScript monorepos (NestJS + Next.js + React Native)
 
-</td>
-<td width="42%" valign="middle" align="center">
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="92%" style="border-radius:14px" alt="Coding"/>
-
-<br/><br/>
-
-[![GitHub](https://img.shields.io/badge/github.com%2FAhmedyasser1905-0d0f14?style=flat-square&logo=github&logoColor=white&labelColor=1f1f23)](https://github.com/Ahmedyasser1905)
-&nbsp;
-[![Email](https://img.shields.io/badge/seosolutions172%40gmail.com-0d0f14?style=flat-square&logo=gmail&logoColor=white&labelColor=c0392b)](mailto:seosolutions172@gmail.com)
-
-</td>
-</tr>
-</table>
+[![GitHub](https://img.shields.io/badge/github.com/Ahmedyasser1905-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ahmedyasser1905)
+[![Email](https://img.shields.io/badge/seosolutions172@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:seosolutions172@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seo-solutions-4503253b9/)
 
 <br/>
 
@@ -194,7 +180,7 @@ Over the past years, I've built **30+ real projects** across every category: pro
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ahmedyasser1905&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Ahmedyasser1905&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6" width="100%" alt="GitHub Trophies" />
 
 </div>
 
