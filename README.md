@@ -19,9 +19,8 @@
 <br/><br/>
 
 <!--━━━━━━━━━━━━━━━━━━━━━━━━━━ PORTFOLIO CTA ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-->
-<!-- ⚠️ Replace YOUR_PORTFOLIO_URL with your actual deployed portfolio URL -->
-<a href="https://github.com/Ahmedyasser1905/portfolio">
-  <img src="https://img.shields.io/badge/⚡_EXPLORE_MY_PORTFOLIO-06b6d4?style=for-the-badge&labelColor=080b14&logoColor=white" height="40"/>
+<a href="https://github.com/Ahmedyasser1905/potfolio">
+  <img src="https://img.shields.io/badge/⚡_EXPLORE_MY_3D_PORTFOLIO-06b6d4?style=for-the-badge&labelColor=080b14&logoColor=white" height="40"/>
 </a>
 &nbsp;&nbsp;
 <a href="mailto:seosolutions172@gmail.com">
@@ -77,6 +76,7 @@ const developer = {
   tools       : ["Docker", "Git", "EAS Build", "Socket.io", "Zustand"],
 
   projectCount: 30,
+  portfolio   : "https://github.com/Ahmedyasser1905/potfolio",
   deployed    : ["rawdha.vercel.app", "pfe-backend-tau.vercel.app", "faida-platform.vercel.app"],
   philosophy  : "Shipped > Perfect. Real > Impressive. Arabic-first when it matters.",
 
@@ -377,7 +377,7 @@ Three-part ecosystem: **NestJS API** (live on Vercel, 4 open issues) · **React 
 | **🏗️ Apex PFE** | Construction project management SPA | React 19 · Vite · TailwindCSS · Radix UI | — |
 | **🍕 Smart Pizza & Café** | Food ordering — real-time orders | RN · Express · MongoDB · Socket.io | — |
 | **👶 Baby Store** | E-commerce baby products + admin | HTML · PHP · MySQL · JS | — |
-| **🎨 Portfolio** | Personal developer portfolio | HTML · CSS · JS · Canvas | [▶](https://github.com/Ahmedyasser1905/portfolio) |
+| **🎨 3D Digital Lab Portfolio** | High-end 3D WebGL developer portfolio & hybrid scroll showcase | HTML5 · CSS3 · Three.js · GSAP ScrollTrigger | [▶](https://github.com/Ahmedyasser1905/potfolio) |
 
 </details>
 
@@ -531,8 +531,7 @@ Three-part ecosystem: **NestJS API** (live on Vercel, 4 open issues) · **React 
 
 <br/>
 
-<!-- ⚠️ Replace with your actual deployed portfolio URL after deploying -->
-<a href="https://github.com/Ahmedyasser1905/portfolio">
+<a href="https://github.com/Ahmedyasser1905/potfolio">
   <img src="https://img.shields.io/badge/⚡_ENTER_MY_DIGITAL_SPACE_→-06b6d4?style=for-the-badge&labelColor=080b14&logoColor=white" height="50"/>
 </a>
 
