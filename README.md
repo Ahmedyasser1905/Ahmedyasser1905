@@ -32,18 +32,8 @@
 
 <br/><br/>
 
-<!--═══════════════════════ QUICK NAVIGATION ════════════════════════-->
-<sub>
-  <a href="#-about-me">About</a> &nbsp;·&nbsp;
-  <a href="#-currently-building">Now</a> &nbsp;·&nbsp;
-  <a href="#-tech-stack">Stack</a> &nbsp;·&nbsp;
-  <a href="#-github-trophies">Trophies</a> &nbsp;·&nbsp;
-  <a href="#-featured-projects">Featured</a> &nbsp;·&nbsp;
-  <a href="#-all-repositories">Repos</a> &nbsp;·&nbsp;
-  <a href="#-github-stats">Stats</a> &nbsp;·&nbsp;
-  <a href="#-development-philosophy">Philosophy</a> &nbsp;·&nbsp;
-  <a href="#-connect">Contact</a>
-</sub>
+<!--═══════════════════════ GRADIENT NAV BAR ═══════════════════════-->
+<a href="#-about-me"><img src="https://img.shields.io/badge/About-3b0764?style=flat-square" height="26"/></a><a href="#-currently-building"><img src="https://img.shields.io/badge/Now-4c1d95?style=flat-square" height="26"/></a><a href="#-tech-stack"><img src="https://img.shields.io/badge/Stack-5b21b6?style=flat-square" height="26"/></a><a href="#-github-trophies"><img src="https://img.shields.io/badge/Trophies-6d28d9?style=flat-square" height="26"/></a><a href="#-featured-projects"><img src="https://img.shields.io/badge/Featured-7c3aed?style=flat-square" height="26"/></a><a href="#-all-repositories"><img src="https://img.shields.io/badge/Repos-8b5cf6?style=flat-square" height="26"/></a><a href="#-github-stats"><img src="https://img.shields.io/badge/Stats-a78bfa?style=flat-square&logoColor=1e1b4b" height="26"/></a><a href="#-development-philosophy"><img src="https://img.shields.io/badge/Philosophy-c4b5fd?style=flat-square&logoColor=1e1b4b" height="26"/></a><a href="#-connect"><img src="https://img.shields.io/badge/Contact-ddd6fe?style=flat-square&logoColor=1e1b4b" height="26"/></a>
 
 </div>
 
