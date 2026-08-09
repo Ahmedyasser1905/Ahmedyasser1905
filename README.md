@@ -14,7 +14,8 @@
 <br/>
 
 <!--═══════════════════════ TYPING ANIMATION ══════════════════════════-->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&repeat=true&width=700&height=36&lines=React+Native+%26+Expo+Mobile+Engineer;NestJS+%7C+Next.js+%7C+Node.js+Backend+Developer;AI+Integration+%28Gemini+%7C+Claude+%7C+OpenAI%29;Mobile+Game+Developer+%7C+30%2B+Projects+Shipped;Building+from+Algeria+for+the+world" alt="Typing SVG" />
+<!--  Typing SVG — lines separated by %3B, no special chars except %26 and %2B -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=700&height=36&lines=React+Native+%26+Expo+Mobile+Engineer%3BNestJS+Next.js+Node.js+Backend+Developer%3BAI+Integration+with+Gemini+Claude+OpenAI%3BMobile+Game+Developer+30%2B+Projects+Shipped%3BBuilding+from+Algeria+for+the+world" alt="Typing SVG" />
 
 <br/><br/>
 
