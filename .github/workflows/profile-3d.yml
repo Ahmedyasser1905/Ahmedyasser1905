@@ -18,10 +18,26 @@ jobs:
           persist-credentials: true
 
       - name: Generate 3D contribution graph SVG
+        # Using rca/profile-3d action to generate an isometric SVG of your contributions
         uses: rca/profile-3d@v1
         with:
-          username: ${{ github.repository_owner }}
+          username: "Ahmedyasser1905"    # explicit GitHub username
           output: "profile-3d-contrib/profile-night-rainbow.svg"
+          # Optional appearance inputs supported by some forks (uncomment if supported):
+          # palette: "night-rainbow"
+          # width: 1200
+          # height: 400
+
+      - name: Show generated file (for debug)
+        run: |
+          ls -la profile-3d-contrib || true
+          if [ -f profile-3d-contrib/profile-night-rainbow.svg ]; then
+            echo "SVG generated"
+            wc -c profile-3d-contrib/profile-night-rainbow.svg
+          else
+            echo "SVG not found"
+            exit 0
+          fi
 
       - name: Commit and push (if changed)
         env:
