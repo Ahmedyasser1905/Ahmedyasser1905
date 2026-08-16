@@ -1,0 +1,40 @@
+name: Generate 3D Profile Contribution Graph
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # daily at midnight UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Generate 3D contribution graph SVG
+        uses: rca/profile-3d@v1
+        with:
+          username: ${{ github.repository_owner }}
+          output: "profile-3d-contrib/profile-night-rainbow.svg"
+
+      - name: Commit and push (if changed)
+        env:
+          GIT_AUTHOR_NAME: "github-actions[bot]"
+          GIT_AUTHOR_EMAIL: "github-actions[bot]@users.noreply.github.com"
+        run: |
+          git config --global user.name "$GIT_AUTHOR_NAME"
+          git config --global user.email "$GIT_AUTHOR_EMAIL"
+          mkdir -p profile-3d-contrib
+          git add profile-3d-contrib/profile-night-rainbow.svg || true
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update 3D contribution graph"
+            git push
+          fi
