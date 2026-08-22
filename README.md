@@ -418,22 +418,14 @@ Three-part ecosystem: **NestJS API** (live on Vercel, 4 open issues) · **React 
 
 ## 🌐 3D Contribution Graph
 
-<div align="center">
+![Ahmed Yasser 3D GitHub contribution graph](https://raw.githubusercontent.com/Ahmedyasser1905/Ahmedyasser1905/main/profile-3d-contrib/profile-night-rainbow.svg)
 
-<img
-  src="https://raw.githubusercontent.com/Ahmedyasser1905/Ahmedyasser1905/main/profile-3d-contrib/profile-night-rainbow.svg"
-  width="100%"
-  alt="Ahmed Yasser 3D GitHub contribution graph"
-/>
-
-<br/>
-
-<sub>
-  Generated automatically by the
-  <code>profile-3d.yml</code> GitHub Action.
-</sub>
-
-</div>
+<p align="center">
+  <sub>
+    يتم إنشاء الرسم تلقائيًا بواسطة GitHub Action
+    <code>profile-3d.yml</code>
+  </sub>
+</p>
 
 <!--━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
                           GITHUB STATS
