@@ -1,8 +1,8 @@
-name: Generate 3D Profile Contribution Graph
+name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    - cron: '0 0 * * *' # daily at midnight UTC
+    - cron: "0 18 * * *"
   workflow_dispatch:
 
 permissions:
@@ -11,46 +11,20 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          persist-credentials: true
+      - uses: actions/checkout@v5
 
-      - name: Generate 3D contribution graph SVG
-        # Using rca/profile-3d action to generate an isometric SVG of your contributions
-        uses: rca/profile-3d@v1
-        with:
-          username: "Ahmedyasser1905"    # explicit GitHub username
-          output: "profile-3d-contrib/profile-night-rainbow.svg"
-          # Optional appearance inputs supported by some forks (uncomment if supported):
-          # palette: "night-rainbow"
-          # width: 1200
-          # height: 400
-
-      - name: Show generated file (for debug)
-        run: |
-          ls -la profile-3d-contrib || true
-          if [ -f profile-3d-contrib/profile-night-rainbow.svg ]; then
-            echo "SVG generated"
-            wc -c profile-3d-contrib/profile-night-rainbow.svg
-          else
-            echo "SVG not found"
-            exit 0
-          fi
-
-      - name: Commit and push (if changed)
+      - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
-          GIT_AUTHOR_NAME: "github-actions[bot]"
-          GIT_AUTHOR_EMAIL: "github-actions[bot]@users.noreply.github.com"
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit & Push
         run: |
-          git config --global user.name "$GIT_AUTHOR_NAME"
-          git config --global user.email "$GIT_AUTHOR_EMAIL"
-          mkdir -p profile-3d-contrib
-          git add profile-3d-contrib/profile-night-rainbow.svg || true
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "chore: update 3D contribution graph"
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          if git commit -m "generated"; then
             git push
           fi
