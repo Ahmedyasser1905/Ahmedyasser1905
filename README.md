@@ -417,7 +417,7 @@ Three-part ecosystem: **NestJS API** (live on Vercel, 4 open issues) · **React 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-->
 
 ## 🌐 3D Contribution Graph
-
+![3D Contribution Graph](./profile-3d-contrib/profile-green.svg)
 <!--
   SETUP: Add `profile-3d.yml` from the github-actions folder
   to `.github/workflows/` in your Ahmedyasser1905/Ahmedyasser1905 repo.
