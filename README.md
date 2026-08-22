@@ -418,18 +418,22 @@ Three-part ecosystem: **NestJS API** (live on Vercel, 4 open issues) · **React 
 
 ## 🌐 3D Contribution Graph
 
-<!--
-  SETUP: Add `profile-3d.yml` from the github-actions folder
-  to `.github/workflows/` in your Ahmedyasser1905/Ahmedyasser1905 repo.
-  Then go to Actions → Run workflow.
-  The SVG auto-generates below.
--->
 <div align="center">
-<img src="https://raw.githubusercontent.com/Ahmedyasser1905/Ahmedyasser1905/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph — run the profile-3d GitHub Action to generate" />
-<sub><i>↑ Run the <code>profile-3d.yml</code> GitHub Action once to generate this 3D isometric contribution landscape</i></sub>
-</div>
+
+<img
+  src="https://raw.githubusercontent.com/Ahmedyasser1905/Ahmedyasser1905/main/profile-3d-contrib/profile-night-rainbow.svg"
+  width="100%"
+  alt="Ahmed Yasser 3D GitHub contribution graph"
+/>
 
 <br/>
+
+<sub>
+  Generated automatically by the
+  <code>profile-3d.yml</code> GitHub Action.
+</sub>
+
+</div>
 
 <!--━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
                           GITHUB STATS
